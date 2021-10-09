@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arturo-collado-rosell 
 - 👀 I’m interested in Machine learning, digital signal processing and radars signal processing in general
-- 🌱 I’m currently learning a lot of stuff relatedto  my interests
+- 🌱 I’m currently learning a lot of stuff related to  my interests
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... you can email me at arturo.collado.rosell@gmail.com. I will answer you as soon as possible
 
